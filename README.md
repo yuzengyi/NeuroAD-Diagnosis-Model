@@ -26,12 +26,6 @@ Open the MATLAB script in your MATLAB environment and run.
 ## Data
 Dataset from the Alzheimer’s Disease Neuroimaging Initiative (ADNI). Not included in the repository due to privacy concerns.
 
-## Contributing
-Contributions are welcome. Please read `CONTRIBUTING.md` for details on our code of conduct and submission process.
-
-## License
-Licensed under the MIT License - see `LICENSE.md` for details.
-
 ## Acknowledgments
 - Alzheimer’s Disease Neuroimaging Initiative (ADNI)
 - International Forum on the Intersection of Psychology and Neuromedical Engineering - CME2023
